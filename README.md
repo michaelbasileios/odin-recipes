@@ -1,0 +1,3 @@
+This project is a website that lists 3 simple food recipes, each containing its own page of ingredients and directions.
+
+In completing this project, I have demonstrated skills in creating a basic html document with headings, paragraphs (with semantic elements), absolute links to images and relative links to other webpages in the same directory. I have also organized the html files in an appropriate folder structure that is intuitive and easy to navigate. I have also put to use my basic knowledge of Git commands with frequent add and commit cycles. 
