@@ -1,3 +1,43 @@
 * {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.heading {
+    color: darkblue;
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#site-name {
+    color: darkred;
+    background-color: orange;
+    font-size: 36px;
+}
+
+#home-list {
+    font-size: 24px;
+    text-align: center;
+}
+
+.foods {
+    display: inline-block;
+    text-align: left;
+}
+
+.description {
+    background-color: green;
+    color: white;
+    font-size: 24px;
+}
+
+.subheading {
+    font-size: 28px;
+    color: darkorange;
+}
+
+.food-img {
+    width: 400px;
+    height: auto;
+    text-align: center;
 }
