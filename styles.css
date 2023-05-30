@@ -41,3 +41,11 @@
     height: auto;
     text-align: center;
 }
+
+.home-button {
+    background-color: orange;
+    color: darkred;
+    border-color: black;
+    margin-left: 50%;
+    font-size: 24px;
+}
