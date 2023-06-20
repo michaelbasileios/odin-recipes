@@ -1,5 +1,15 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+.homecard {
+    background-color: peachpuff;
+    width: 500px;
+    margin: auto;
+    padding: 8px;
+    border-style: ridge;
+    border-color: black;
 }
 
 .heading {
@@ -13,11 +23,16 @@
     color: darkred;
     background-color: orange;
     font-size: 36px;
+    padding: 8px;
+    margin: 8px;
+    border-style: double;
+    border-color: black;
 }
 
 #home-list {
     font-size: 24px;
     text-align: center;
+    line-height: 2em;
 }
 
 .foods {
