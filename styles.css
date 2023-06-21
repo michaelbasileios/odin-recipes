@@ -8,8 +8,8 @@
     width: 500px;
     margin: auto;
     padding: 8px;
-    border-style: ridge;
-    border-color: black;
+    border: 5px ridge darkred;
+    vertical-align: 50%;
 }
 
 .heading {
